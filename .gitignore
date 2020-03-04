@@ -1,0 +1,9 @@
+#  Local .terraform directories
+**/.terraform/*
+
+# .tfstate files
+*.tfstate
+*.tfstate.*
+
+# Settings for local development environment
+**/local/*.*
